@@ -2,7 +2,7 @@
  * @author Evan Otero
  * Date: November 24, 2015
  * 
- * A priority queue using max-heaps
+ * A priority queue using a max-heap
  */
 
 import java.util.*;
