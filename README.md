@@ -8,6 +8,8 @@ index representation of the webpage is organized using my own AVL tree.
 The list of urls is scanned from a user created file.  The jsoup Java library is used
 to handle the processing of HTML.
 
+*Phrases are not currently supported as queries.  Only one word can be entered.*
+
 Created as a project in CS1102.
 
 Usage
